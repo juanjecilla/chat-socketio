@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="send_message">send_label</string>
+</resources>
